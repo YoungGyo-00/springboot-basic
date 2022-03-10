@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e527032c-4443-4b37-a7a7-ad70e55e5fe7" name="변경" comment="DI, IOC, AOP 끄적끄적" />
+    <list default="true" id="e527032c-4443-4b37-a7a7-ad70e55e5fe7" name="변경" comment="objectMapper">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,6 +81,8 @@
       <option name="presentableId" value="Default" />
       <updated>1646722991313</updated>
       <workItem from="1646722996504" duration="649000" />
+      <workItem from="1646727518358" duration="49000" />
+      <workItem from="1646870913669" duration="769000" />
     </task>
     <task id="LOCAL-00001" summary="DI, IOC, AOP 끄적끄적">
       <created>1646723123125</created>
@@ -94,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646723323656</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="objectMapper">
+      <created>1646727561088</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646727561089</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +126,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="DI, IOC, AOP 끄적끄" />
     <MESSAGE value="DI, IOC, AOP 끄적끄적" />
-    <option name="LAST_COMMIT_MESSAGE" value="DI, IOC, AOP 끄적끄적" />
+    <MESSAGE value="objectMapper" />
+    <option name="LAST_COMMIT_MESSAGE" value="objectMapper" />
   </component>
 </project>
