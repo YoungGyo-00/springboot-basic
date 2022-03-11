@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e527032c-4443-4b37-a7a7-ad70e55e5fe7" name="변경" comment="Interceptor">
+    <list default="true" id="e527032c-4443-4b37-a7a7-ad70e55e5fe7" name="변경" comment="Server-to-Server">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,6 +88,8 @@
       <workItem from="1646894010495" duration="36000" />
       <workItem from="1646900726842" duration="97000" />
       <workItem from="1646957242264" duration="84000" />
+      <workItem from="1646975059468" duration="125000" />
+      <workItem from="1646986953549" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="DI, IOC, AOP 끄적끄적">
       <created>1646723123125</created>
@@ -131,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646900746217</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Server-to-Server">
+      <created>1646975082191</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1646975082191</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +165,7 @@
     <MESSAGE value="Validation" />
     <MESSAGE value="Exception, Filter" />
     <MESSAGE value="Interceptor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interceptor" />
+    <MESSAGE value="Server-to-Server" />
+    <option name="LAST_COMMIT_MESSAGE" value="Server-to-Server" />
   </component>
 </project>
